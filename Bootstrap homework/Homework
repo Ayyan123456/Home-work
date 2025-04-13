@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title></title>Bootstrap Grids!</title>
+        <style>
+            .col{
+                border:2px solid rgba(0, 111, 126, 0.858);
+            }
+        </style><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+    </head>
+    <body>
+        <h1>GRIDS</h1>
+        <div class="container">
+            <div class="row">
+                <div class="xs">
+                <div class="col">Number One.</div>
+            <div class="col">Number Two.</div>
+        <div class="col">Number Three.</div>
+        <div class="col">Number four</div>
+        </div>
+        </div>
+        </div>
+    </body>
+</html>
